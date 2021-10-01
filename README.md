@@ -21,8 +21,7 @@ I hope so, yes.  I don't have access to mac or linux at the moment, however.
 
 # Known Bugs
 Some HTML5 Code doesn't show properly on certain webpages.
-Reload counts as a "Visited Page" and will direct to a reload on back button pressed.
-(not really a bug) SMOOTH SCROLLING DOESN'T EXIST!
+(not really a bug, but) SMOOTH SCROLLING DOESN'T EXIST!
 
 # Changelog #
 
