@@ -2,9 +2,6 @@
 The browser that doesn't track you.  Available for Windows only at the moment.
 I will attempt an Android version, that has the same functionalities.
 Libertatem keeps no record of your online activity, other than a list of addresses in the C# code, which is used for the back button.
-This was made with Microsoft WPF.NET in Visual Studio Community 2019.
-
-The browser uses a Chromium-based controller called CEFSHARP.  You can explore this here: https://cefsharp.github.io/
 
 # Questions
 How do I install this?
@@ -33,5 +30,7 @@ Reload counts as a "Visited Page" and will direct to a reload on back button pre
 Fixed Reload-Redirect issue, where it would count as a 'Visited Page'
 
 Styling is a little bit better, and input boxes will no longer get long when you squish the window.
+
+No Longer uses CEFSHARP, but still is chromium based, using PyQt5 WebEngine.
 
 CROSS-COMPATABILITY BABY!!!
