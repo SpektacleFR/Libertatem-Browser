@@ -1,8 +1,9 @@
 # Libertatem-Browser
 The browser that doesn't track you.  Available for Windows and Linux (Ubuntu, tested) only at the moment.
 I will attempt an Android version that has the same functionalities, but have a potato laptop so might be delayed.
-Libertatem keeps no record of your online activity, other than a list of addresses in the Python code, which is used for the back button.
-You Do have to have PyQt5 and PyQtWebEngine.  To install these, run this:
+Libertatem keeps no record of your online activity, other than a list of addresses in the Python code, which is used for the back button.  
+
+You Do have to have PyQt5 and PyQtWebEngine for v1.1.  To install these, run this:
 ```
 pip install PyQt5
 pip install PyQtWebEngine
