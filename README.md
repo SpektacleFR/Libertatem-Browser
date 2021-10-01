@@ -1,7 +1,7 @@
 # Libertatem-Browser
 The browser that doesn't track you.  Available for Windows and Linux (Ubuntu, tested) only at the moment.
 I will attempt an Android version that has the same functionalities, but have a potato laptop so might be delayed.
-Libertatem keeps no record of your online activity, other than a list of addresses in the C# code, which is used for the back button.
+Libertatem keeps no record of your online activity, other than a list of addresses in the Python code, which is used for the back button.
 
 # Questions
 How do I install this?
