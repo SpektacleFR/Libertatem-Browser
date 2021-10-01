@@ -26,3 +26,12 @@ I hope so, yes.  I don't have access to mac or linux at the moment, however.
 Some HTML5 Code doesn't show properly on certain webpages.
 Reload counts as a "Visited Page" and will direct to a reload on back button pressed.
 (not really a bug) SMOOTH SCROLLING DOESN'T EXIST!
+
+# Changelog #
+
+# V1.1 (Pre-Release) #
+Fixed Reload-Redirect issue, where it would count as a 'Visited Page'
+
+Styling is a little bit better, and input boxes will no longer get long when you squish the window.
+
+CROSS-COMPATABILITY BABY!!!
