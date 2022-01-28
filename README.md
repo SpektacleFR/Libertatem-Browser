@@ -36,7 +36,7 @@ Will this be available for other platforms?
 I hope so, yes.  I don't have access to mac at the moment, however.
 
 # Known Bugs
-Some HTML5 Code doesn't show properly on certain webpages.
+Some HTML5 Code doesn't show properly on certain webpages.  
 You can't press escape to get out of fullscreen.
 
 # Changelog #
