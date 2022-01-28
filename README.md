@@ -41,11 +41,17 @@ You can't press escape to get out of fullscreen.
 
 # Changelog #
 
-# V1.1 (Pre-Release) #
+**v1.1 (Pre-Release)**  
 Fixed Reload-Redirect issue, where reload would count as a 'Visited Page'
 
 Styling is a little bit better, and input boxes will no longer get long when you squish the window.
 
 No Longer uses CEFSHARP, but still is chromium based, using PyQt5 WebEngine.
 
-CROSS-COMPATABILITY BABY!!!
+CROSS-COMPATABILITY BABY!!!  
+
+
+**v1.2 (Pre-Release)**  
+Search bar and URL bar dynamically part ways, leaving better styling
+
+Fullscreen support has been added.
