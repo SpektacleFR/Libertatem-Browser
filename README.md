@@ -1,9 +1,9 @@
 # Libertatem-Browser
 The browser that doesn't track you.  Available for Windows, Mac, and Linux (Ubuntu, tested).
-I will attempt an Android version that has the same functionalities, but have a potato laptop so might be delayed.
+I will attempt an Android version that has the same functionalities, but I don't know the ways of android, so that might be delayed.
 Libertatem keeps no record of your online activity, other than a list of addresses in the Python code, which is used for the back button.  
 
-You Do have to have PyQt5 and PyQtWebEngine for v1.1.  To install these, run this:
+You Do have to have PyQt5 and PyQtWebEngine.  To install these, run this:
 ```
 pip install PyQt5
 pip install PyQtWebEngine
@@ -28,16 +28,16 @@ How can we trust you?
 You don't have any proof that I'm not tracking you, so I guess you'll just have to take my word for it.  I guess you could check the source code though!
 
 Will this be available for other platforms?
-I hope so, yes.  I don't have access to mac or linux at the moment, however.
+I hope so, yes.  I don't have access to mac at the moment, however.
 
 # Known Bugs
 Some HTML5 Code doesn't show properly on certain webpages.
-(not really a bug, but) SMOOTH SCROLLING DOESN'T EXIST!
+You can't press escape to get out of fullscreen.
 
 # Changelog #
 
 # V1.1 (Pre-Release) #
-Fixed Reload-Redirect issue, where it would count as a 'Visited Page'
+Fixed Reload-Redirect issue, where reload would count as a 'Visited Page'
 
 Styling is a little bit better, and input boxes will no longer get long when you squish the window.
 
