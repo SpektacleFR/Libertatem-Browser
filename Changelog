@@ -1,6 +1,0 @@
-# V1.1 (Pre-Release) #
-Fixed Reload-Redirect issue, where it would count as a 'Visited Page'
-
-Styling is a little bit better, and input boxes will no longer get long when you squish the window.
-
-CROSS-COMPATABILITY BABY!!!
