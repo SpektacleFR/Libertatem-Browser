@@ -7,6 +7,7 @@ Libertatem keeps no record of your online activity, other than a list of address
 
 I cannot guarantee that the websites you visit will not track you.  As of the moment, I have no means of preventing this, so be careful where you surf.  This browser is not nearly as secure as FireFox, or Safari, meaning that the client only does not track you.  
 
+#  
 You Do have to have PyQt5 and PyQtWebEngine.  To install these, run this:
 ```
 pip install PyQt5
