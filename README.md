@@ -20,19 +20,19 @@ py -m pip install PyQtWebEngine
 ```
 
 # Questions
-How do I install this?
+**How do I install this?**
 There is no installation!  You just run the Python Script!
 
-Can we change the home/startup page?
+**Can we change the home/startup page?**
 I will try to add functionality for this in the future, but my knowledge of this code is limited, as I am a beginner.
 
-What does libertatem mean?
+**What does libertatem mean?**
 Libertatem is the latin word for Freedom.  This browser doesn't track you.
 
-How can we trust you?
-You don't have any proof that I'm not tracking you, so I guess you'll just have to take my word for it.  I guess you could check the source code though!
+**How can we trust you?**
+I guess you could check the source code!
 
-Will this be available for other platforms?
+**Will this be available for other platforms?**
 I hope so, yes.  I don't have access to mac at the moment, however.
 
 # Known Bugs
