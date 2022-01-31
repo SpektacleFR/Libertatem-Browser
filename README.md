@@ -33,7 +33,7 @@ Libertatem is the latin word for Freedom.  This browser doesn't track you.
 I guess you could check the source code!
 
 **Will this be available for other platforms?**
-I hope so, yes.  I don't have access to mac at the moment, however.
+I hope so, yes.  I don't have access to Android Studio at the moment, however.
 
 # Known Bugs
 Some HTML5 Code doesn't show properly on certain webpages.  
