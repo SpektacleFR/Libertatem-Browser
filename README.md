@@ -37,7 +37,8 @@ I hope so, yes.  I don't have access to Android Studio at the moment, however.
 
 # Known Bugs
 Some HTML5 Code doesn't show properly on certain webpages.  
-You can't press escape to get out of fullscreen.
+You can't press escape to get out of fullscreen.  
+The browser doesn't work correctly on Fedora 35.
 
 # Changelog #
 
